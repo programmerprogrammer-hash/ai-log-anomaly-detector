@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+models/trained_model.pkl
